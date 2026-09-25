@@ -1,7 +1,10 @@
 ---
 title: "Windows Usuários: Habilitar Conta Interna de Administrador"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/usuarios
   - windows/seguranca
 ---
@@ -26,4 +29,4 @@ Enable-LocalUser -Name "Administrador"
 
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
-- [Windows Usuários: Comandos de Gerenciamento de Contas](6_gerenciar_usuarios.md) — Comandos de terminal para criação, edição e exclusão de contas.
+- [Windows Usuários: Comandos de Gerenciamento de Contas](06_gerenciar_usuarios.md) — Comandos de terminal para criação, edição e exclusão de contas.

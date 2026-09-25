@@ -1,7 +1,10 @@
 ---
 title: "Windows Otimização: Desativar Gerenciamento de Energia da CPU"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/energia
   - windows/otimizacao
 ---

@@ -1,7 +1,10 @@
 ---
 title: "Windows PowerShell: Habilitar Execução de Scripts"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/powershell
   - windows/scripts
 ---

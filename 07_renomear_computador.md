@@ -1,7 +1,10 @@
 ---
 title: "Windows Gerenciamento: Renomear Computador"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/gerenciamento
 ---
 
@@ -28,4 +31,4 @@ sconfig
 
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
-- [Windows Usuários: Exibir Nome do Computador e Contas](2_exibir_nome_computador_e_usuarios.md) — Exibição do nome do computador e contas ativas locais.
+- [Windows Usuários: Exibir Nome do Computador e Contas](02_exibir_nome_computador_e_usuarios.md) — Exibição do nome do computador e contas ativas locais.

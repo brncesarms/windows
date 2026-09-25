@@ -1,7 +1,10 @@
 ---
 title: "Windows Otimização: Desativar Aplicativos em Segundo Plano"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/otimizacao
 ---
 
@@ -23,4 +26,4 @@ reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplicat
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
 - [Windows Privacidade: Desativar Histórico de Atividades](15_desativar_historico_atividades_do_windows.md) — Desativação do histórico de atividades de privacidade do Windows.
-- [Windows Otimização: Desativar Gerenciamento de Energia da CPU](3_desativar_gerenciador_de_energia.md) — Configurações de otimização de energia da CPU.
+- [Windows Otimização: Desativar Gerenciamento de Energia da CPU](03_desativar_gerenciador_de_energia.md) — Configurações de otimização de energia da CPU.

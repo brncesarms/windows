@@ -1,7 +1,10 @@
 ---
 title: "Windows Remoto: Configuração Pós-Formatação via SSH"
 date_created: 2026-08-31
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/ssh
   - windows/remoto
   - infraestrutura
@@ -104,4 +107,4 @@ ssh usuario@IP_DO_PC
 ## 🔗 Notas Relacionadas
 - [Guia Principal de Windows](./README.md)
 - [SSH para Ollama/Proxmox](../proxmox/ollama--guia-acesso-ssh.md)
-- [T.I. — Mapa de Conteúdo](../README.md)
+- [T.I. — Mapa de Conteúdo](README.md)

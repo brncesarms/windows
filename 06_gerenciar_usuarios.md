@@ -1,7 +1,10 @@
 ---
 title: "Windows Usuários: Comandos de Gerenciamento de Contas"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/usuarios
   - windows/gerenciamento
 ---
@@ -28,5 +31,5 @@ net user user /passwordchg:no
 
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
-- [Windows Usuários: Habilitar Conta Interna de Administrador](5_habilitar_usuario_administrador.md) — Habilitação da conta integrada oculta de Administrador.
-- [Windows Usuários: Exibir Nome do Computador e Contas](2_exibir_nome_computador_e_usuarios.md) — Exibição rápida do nome de computador e contas locais de usuários.
+- [Windows Usuários: Habilitar Conta Interna de Administrador](05_habilitar_usuario_administrador.md) — Habilitação da conta integrada oculta de Administrador.
+- [Windows Usuários: Exibir Nome do Computador e Contas](02_exibir_nome_computador_e_usuarios.md) — Exibição rápida do nome de computador e contas locais de usuários.

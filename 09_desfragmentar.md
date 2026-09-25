@@ -1,7 +1,10 @@
 ---
 title: "Windows Manutenção: Desfragmentação e Otimização"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/manutencao
   - windows/otimizacao
 ---
@@ -32,4 +35,4 @@ defrag C: /v
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
 - [Windows Manutenção: Ferramentas SFC e DISM](10_sfc_dism.md) — Diagnóstico e reparo lógico de arquivos de sistema corrompidos.
-- [Windows Manutenção: Comando CHKDSK](8_chkdsk.md) — Inspeção e correção de integridade física de discos com CHKDSK.
+- [Windows Manutenção: Comando CHKDSK](08_chkdsk.md) — Inspeção e correção de integridade física de discos com CHKDSK.

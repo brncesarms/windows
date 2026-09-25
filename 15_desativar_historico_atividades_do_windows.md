@@ -1,7 +1,10 @@
 ---
 title: "Windows Privacidade: Desativar Histórico de Atividades"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/privacidade
   - windows/seguranca
 ---

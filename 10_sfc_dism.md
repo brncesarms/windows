@@ -1,7 +1,10 @@
 ---
 title: "Windows Manutenção: Ferramentas SFC e DISM"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/manutencao
   - windows/otimizacao
 ---
@@ -33,5 +36,5 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
-- [Windows Manutenção: Comando CHKDSK](8_chkdsk.md) — Diagnóstico e reparo físico de discos com a ferramenta CHKDSK.
-- [Windows Manutenção: Desfragmentação e Otimização](9_desfragmentar.md) — Otimização e desfragmentação manual de unidades de armazenamento.
+- [Windows Manutenção: Comando CHKDSK](08_chkdsk.md) — Diagnóstico e reparo físico de discos com a ferramenta CHKDSK.
+- [Windows Manutenção: Desfragmentação e Otimização](09_desfragmentar.md) — Otimização e desfragmentação manual de unidades de armazenamento.

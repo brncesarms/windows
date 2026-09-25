@@ -1,7 +1,10 @@
 ---
 title: "Windows 11: Script de Desbloat Win11Debloat"
 date_created: 2026-09-04
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/debloat
 ---
 
@@ -77,7 +80,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
 - [Windows Software: Gerenciador de Pacotes WinGet](17_winget.md) — Instalação e atualização em lote de softwares.
-- 💻 [T.I. — Mapa de Conteúdo](../README.md) — Índice geral de todas as áreas.
+- 💻 [T.I. — Mapa de Conteúdo](README.md) — Índice geral de todas as áreas.
 
 ---
 

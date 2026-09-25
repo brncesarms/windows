@@ -1,7 +1,10 @@
 ---
 title: "Windows Manutenção: Comando CHKDSK"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/manutencao
 ---
 
@@ -28,4 +31,4 @@ tags:
 ## 🔗 Notas Relacionadas
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
 - [Windows Manutenção: Ferramentas SFC e DISM](10_sfc_dism.md) — Reparo lógico de arquivos corrompidos de sistema com SFC e DISM.
-- [Windows Manutenção: Desfragmentação e Otimização](9_desfragmentar.md) — Otimização e desfragmentação manual de discos rígidos e SSDs.
+- [Windows Manutenção: Desfragmentação e Otimização](09_desfragmentar.md) — Otimização e desfragmentação manual de discos rígidos e SSDs.

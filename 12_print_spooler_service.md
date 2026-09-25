@@ -1,7 +1,10 @@
 ---
 title: "Windows Serviços: Spooler de Impressão"
 date_created: 2026-08-17
+author: "Bruno César / Antigravity"
+privacy: public
 tags:
+  - publico
   - windows/servicos
   - windows/manutencao
 ---
