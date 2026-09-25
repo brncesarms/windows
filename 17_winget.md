@@ -1,7 +1,7 @@
 ---
 title: "Windows Software: Gerenciador de Pacotes WinGet"
 date_created: 2026-08-17
-author: "Bruno César / Antigravity"
+author: "Bruno César"
 privacy: public
 tags:
   - publico

@@ -1,7 +1,7 @@
 ---
 title: "Windows Remoto: Configuração Pós-Formatação via SSH"
 date_created: 2026-08-31
-author: "Bruno César / Antigravity"
+author: "Bruno César"
 privacy: public
 tags:
   - publico

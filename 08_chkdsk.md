@@ -1,7 +1,7 @@
 ---
 title: "Windows Manutenção: Comando CHKDSK"
 date_created: 2026-08-17
-author: "Bruno César / Antigravity"
+author: "Bruno César"
 privacy: public
 tags:
   - publico
