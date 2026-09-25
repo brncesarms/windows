@@ -65,7 +65,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 .\Win11Debloat.ps1 -RemoveGamingApps
 ```
 
-> ℹ️ O script fica salvo em [`scripts/windows/Win11Debloat.ps1`](../../guia-ia-local/scripts/windows/Win11Debloat.ps1) para uso offline.
+> ℹ️ Os scripts PowerShell automatizados estão disponíveis no repositório público [`brncesarms/scripts (PowerShell)`](https://github.com/brncesarms/scripts/tree/main/powershell).
 
 ## 🥈 Alternativa enterprise: SysAdminDoc/Debloat-Win11
 
@@ -77,10 +77,14 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 | 🛟 Restore | Ponto de restauração automático |
 | 🖥️ Detecção | Hardware (laptop/desktop, SSD/HDD) |
 
+---
+
 ## 🔗 Notas Relacionadas
+- [Windows Software: Gerenciador de Pacotes WinGet](17_winget.md) — Instalação e atualização em lote de softwares pós-debloat.
+- [Windows PowerShell: Habilitar Execução de Scripts](01_habilitar_execucao_scripts_powershell.md) — Configuração de ExecutionPolicy necessária para rodar o script.
+- [Windows Privacidade: Desativar Histórico de Atividades](15_desativar_historico_atividades_do_windows.md) — Complemento de privacidade e telemetria.
+- [Windows Otimização: Desativar Aplicativos em Segundo Plano](16_desativar_aplicativos_em_segundo_plano.md) — Redução de overhead de memória e CPU.
 - [Windows: Guia Principal de Referência de Conhecimento](README.md) — Índice principal de tópicos de Windows.
-- [Windows Software: Gerenciador de Pacotes WinGet](17_winget.md) — Instalação e atualização em lote de softwares.
-- 💻 [T.I. — Mapa de Conteúdo](README.md) — Índice geral de todas as áreas.
 
 ---
 
